@@ -11,3 +11,5 @@
 ^LICENSE\.md$
 ^nsrr\.Rproj$
 ^\.Rproj\.user$
+^DESCRIPTION\.bak$
+^\./\.travis\.yml\.bak$

@@ -39,9 +39,6 @@ slugs = c("abc", "bestair", "chat", "ccshs", "cfs",
 "heartbeat", "hchs", "homepap", "haassa", "learn")
 testthat::expect_true(all(slugs \%in\% df$slug))
 }
-\donttest{
-df = nsrr_datasets(page = 1)
-}
 nsrr_dataset(dataset = "shhs", token = "")
 dataset = "shhs"
 token = NULL

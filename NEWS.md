@@ -1,8 +1,3 @@
-# nsrr 0.1.4
-
-- Minor fixes to vignette due to `pandoc`. 
-- Added a few more tests to increase code coverage.
-
 # nsrr 0.1.3
 
 - Now `nsrr_datasets` returns all data sets, not just the first page, fixes #2.
