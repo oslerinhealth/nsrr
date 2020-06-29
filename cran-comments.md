@@ -1,7 +1,7 @@
 ## Test environments
-* local OS X install, R 3.6.0
-* ubuntu 14.04 (on travis-ci), R 3.6.0
-* win-builder (devel and release)
+* local R installation, R 4.0.0
+* ubuntu 16.04 (on travis-ci), R 4.0.0
+* win-builder (devel)
 
 ## R CMD check results
 
@@ -9,5 +9,5 @@
 
 * This is a new release.
 
------
-Fixes https://cran.r-project.org/web/checks/check_results_nsrr.html. 
+---
+Fixes SSL certificate problem: certificate has expired issues for API.
